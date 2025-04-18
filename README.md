@@ -1,8 +1,6 @@
-
 <p align="center"> <img src="NHS_LOGO.jpg" alt="NHS Logo" width="150"/> </p>
 
 # NHS STEP UP Challenge 2025 – Live Data Analysis (Challenge C)
-
 This project was completed as part of the **NHS STEP UP Live Online Career Challenge (Challenge C)** in April 2025. The challenge involved analyzing **live NHS data** relating to antidepressant prescriptions across different regions in the UK. The primary aim was to uncover trends, regional disparities, and potential gaps in mental health access using real-world healthcare data.
 
 ---
