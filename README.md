@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="NHS_LOGO.jpg" alt="NHS Logo" width="200"/> </p>
+<p align="center"> <img src="NHS_LOGO.jpg" alt="NHS Logo" width="150"/> </p>
 
 # NHS STEP UP Challenge 2025 – Live Data Analysis (Challenge C)
 
